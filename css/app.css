@@ -47,6 +47,10 @@ h5.condensed-bold{
   font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
 }
 
+.max-width-300{
+  max-width: 300px;
+}
+
 .image-wrapper-circle{
   overflow: hidden;
   border-radius: 300px;
