@@ -2,8 +2,18 @@
   font-style: italic;
 }
 
+.hero-buttons .button-container a{
+  color: white;
+}
+
+.hero-buttons .button-container:hover{
+  background-color: rgba(0,0,0,0.3);
+}
+
 .hero-buttons .button-container{
-  background: black;
+  background-color: rgba(0,0,0,0.5);
+  padding: 10px 10px 5px;
+  border-right: 1px solid rgba(0,0,0,0.8);
 }
 
 .hard-background{
