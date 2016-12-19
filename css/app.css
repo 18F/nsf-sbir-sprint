@@ -79,6 +79,7 @@ h2.condensed-bold,
 h3.condensed-bold,
 h4.condensed-bold,
 h5.condensed-bold{
+  margin-bottom: 3vh;
   text-transform: uppercase;
   font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
 }
